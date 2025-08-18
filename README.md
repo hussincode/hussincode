@@ -41,13 +41,18 @@ I’m passionate about building **web & mobile applications**, developing **game
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=اhusssincode&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huddincode&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hussinhesham&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussinhesham&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huddincode&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussinhesham&layout=compact&theme=tokyonight" height="180em"/>
 </p>  
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/hussinhesham/hussinhesham/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
