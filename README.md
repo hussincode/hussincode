@@ -1,47 +1,72 @@
-👋 Hi there, I'm Hussin Hesham!
+# Hi there 👋, I'm Hussin Hesham  
 
-🚀 Front-End Developer | 🧠 Competitive Programmer | 🎓 Student at El Sewedy International School for Applied Technology & Software  
-📍 Passionate about building sleek UIs, solving algorithms, and learning something new every day!
+🚀 **Full-Stack Developer | Game Developer | App Developer | Problem Solver | Tech Enthusiast**  
 
----
-
-## 🔧 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
+Welcome to my corner of GitHub!  
+I’m passionate about building **web & mobile applications**, developing **games**, solving **competitive programming problems**, and exploring new **technologies**.  
 
 ---
 
-## 🏆 Achievements & Projects
+## 🧑‍💻 About Me
+- 🎓 Student at **El Sewedy International School for Applied Technology & Software**  
+- 💡 Passionate about **Web Development**, **App Development**, and **Game Development**  
+- 🔥 Interested in **Competitive Programming** (ECPC Participant)  
+- 🎯 Goal: Becoming a **Google Software Engineer**  
+- 🌊 Fun fact: I train in **swimming** every night 🏊‍♂️  
 
-- 🏅 Certified in Competitive Programming – Levels 1 & 2  
-- 🍔 Creator of **HommyBites** – Homemade food delivery app with recipes & diet categories  
-- 🕹️ Building **GameSphere** – An e-commerce site for gamers
+---
+
+## 🛠️ Tech Stack
+### 🚀 Frontend
+- HTML | CSS | JavaScript | React | TailwindCSS  
+
+### ⚙️ Backend
+- Node.js | Express.js | C# | PostgreSQL | MySQL  
+
+### 📱 App & Game Dev
+- React Native | Unity | C# | Firebase  
+
+### 🧩 Other Skills
+- Git & GitHub | API Development | Problem Solving (C++)  
+
+---
+
+## 📌 Featured Projects
+- 🥘 **HommyBites** – Homemade food delivery app (with recipe book & diet categories)  
+- 🛍️ **Artisan Touch** – Marketplace for handmade products & artisanal foods  
+- 🎮 **Game E-Commerce** – Professional website for consoles, setups, and games  
+- ♿ **Shufni (شوفني)** – Awareness & AI-powered solutions for people with disabilities  
 
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hussinhesham&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussinhesham&theme=tokyonight" height="180em"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=hussincode&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=hussincode&theme=shadow_blue&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hussincode&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:heshamhussin172@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussinhesham&layout=compact&theme=tokyonight" height="180em"/>
+</p>  
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussin-hesham-3b1401317/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/hussinhesham172/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61576728057275)  
 
+📧 Email: **heshamhussin172@gmail.com**  
+
+---
+
+## ⚡ Fun Zone
+- 🎮 Creating games & cool apps in my free time  
+- 🧩 Solving coding challenges at 2 AM  
+- 🏊 Swimming keeps me focused & disciplined  
+- 🎵 Music + Code = Perfect Flow  
+- 🌍 Dreaming of making tech accessible for everyone  
+
+---
+
+⭐️ *“Code is not just about solving problems; it’s about creating impact.”*  
